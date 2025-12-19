@@ -1,0 +1,5 @@
+{
+  "name": "Analisador de Relatórios ARTESP",
+  "description": "Analisador automático de relatórios de engenharia (Pontes/Viadutos) com extração de parâmetros estruturais, funcionais e durabilidade, comparativo com norma ARTESP e exportação para Excel/PDF.",
+  "requestFramePermissions": []
+}
